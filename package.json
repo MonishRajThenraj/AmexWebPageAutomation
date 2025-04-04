@@ -1,0 +1,26 @@
+{
+  "name": "amexwebpageautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonishRajThenraj/AmexWebPageAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonishRajThenraj/AmexWebPageAutomation/issues"
+  },
+  "homepage": "https://github.com/MonishRajThenraj/AmexWebPageAutomation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^11.2.0"
+  }
+}
