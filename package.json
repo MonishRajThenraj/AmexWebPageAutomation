@@ -21,6 +21,8 @@
     "@playwright/test": "^1.51.1"
   },
   "dependencies": {
-    "@cucumber/cucumber": "^11.2.0"
+    "@cucumber/cucumber": "^11.2.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
   }
 }
